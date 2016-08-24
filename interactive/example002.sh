@@ -1,3 +1,6 @@
+# For more information visit
+# http://slurm.schedmd.com/srun.html
+#
 # The command below will fail because there are no nodes
 # in the partition short1 with those specs
 #
