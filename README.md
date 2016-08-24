@@ -1,4 +1,4 @@
-# just a bunch of example
+# just a bunch of examples
 ![HPC](https://img.shields.io/badge/HPC-ready-blue.svg)
 ![SLURM](https://img.shields.io/badge/SLURM-examples-blue.svg)
 ![Matlab](https://img.shields.io/badge/Matlab-examples-blue.svg)
