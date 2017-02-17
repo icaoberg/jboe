@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# For more information visit
+# https://www.python.org/
+
 which python
 which virtualenv
 
